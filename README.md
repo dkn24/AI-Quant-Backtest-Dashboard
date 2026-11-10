@@ -28,8 +28,8 @@ An interactive quantitative finance web application built with Python, Streamlit
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/dkn24/AI-Quant-Backtest-Dashboard
+cd AI-Quant-Backtest-Dashboard
 ```
 
 ### 2. Set Up a Virtual Environment & Install Dependencies
