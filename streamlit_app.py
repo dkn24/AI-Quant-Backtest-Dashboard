@@ -114,7 +114,7 @@ if st.sidebar.button("Run Backtest & AI Analysis"):
                 """
                 
                 response = client.models.generate_content(
-                    model='gemini-2.5-flash',
+                    model='gemini-3.8-flash',
                     contents=prompt,
                 )
                 
